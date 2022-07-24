@@ -68,5 +68,3 @@ For MultiWOZ 2.1 dataset, you can run:
 python myTest.py -path=save/GraphDialog-MULTIWOZ/multiwozHDD128BSZ128DR0.2L1lr0.001ENTF1-0.1513/ckpt-9 -ds=multiwoz -maxdeps=7 -graphhdd=128 -nheads=1 -graph_layer=1
 ```
 
-## Others
-If you have any questions, please feel free to send us emails (shiquan@student.unimelb.edu.au). We are happy to help you:blush: !
