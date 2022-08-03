@@ -1,7 +1,7 @@
 ## GraphDialog
 
 This is the Tensorflow implementation of the paper:
-**GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems**. ***EMNLP 2020***. 
+[*[Shiquan Yang, Rui Zhang, Sarah Erfani, "GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems". EMNLP 2020.]*](https://www.ruizhang.info/publications/EMNLP2020%20GraphDialog-Integrating%20Graph%20Knowledge%20into%20End-to-End%20Task-Oriented%20Dialogue%20Systems.pdf).
 
 This code has been written using Tensorflow >= 2.0.0. If you find the source codes or the datasets included in this software useful to your work, please consider citing our paper. The bibtex is:
 <pre>
